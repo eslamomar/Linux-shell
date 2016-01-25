@@ -1,0 +1,7 @@
+lab3.c file 
+and
+shell file  ===>
+work on linux not windows 
+
+
+code.txt file ==> contain source code  
